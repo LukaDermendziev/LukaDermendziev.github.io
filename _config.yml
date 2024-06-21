@@ -51,18 +51,18 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dermendzievluka@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: lukadermendziev
   github: LukaDermendziev
   twitter: lukadermendziev
-  whatsapp: 076376070
+  whatsapp: +38976376070
+  instagram: lukadermendziev23
+  discord: "users/lukad._"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: lukadermendziev23
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -74,7 +74,6 @@ instagram: lukadermendziev23
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-discord: "users/lukad._"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
@@ -136,7 +135,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "turqoise"
+navbar-col: "green"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
