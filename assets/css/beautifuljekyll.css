@@ -378,6 +378,7 @@ img {
     border-radius: 50%;
   {% endunless %}
   display: block;
+  height: 100px;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container {
