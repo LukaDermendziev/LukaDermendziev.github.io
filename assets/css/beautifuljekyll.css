@@ -678,7 +678,8 @@ footer .footer-custom-content {
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
-  height: 455px;
+  height: 650px;
+  background-position-y: 4px;
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
