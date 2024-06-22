@@ -14,11 +14,6 @@
 .gitignore text eol=lf
 .gitkeep text eol=lf
 
-# Ruby files
-*.rb text eol=lf
-Gemfile text eol=lf
-Gemfile.lock text eol=lf
-
 # Github specific fies
 LICENCE text eol=lf
 
